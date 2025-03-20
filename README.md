@@ -15,7 +15,7 @@ Hello, I am Matthew, a Research Fellow at the University of Southampton (Soton) 
 
 ### Open-source contributions
 
-I primarily work as a core developer on two main projects, but will occasionally contribute to other repositories.
+I work as a core developer on two main projects, but will occasionally contribute to other repositories.
 
 - [aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for time series machine learning algorithms, encompasses a number of learning tasks such as classification, regression, forecasting, anomaly detection and much more.
 - [tsml-eval](https://github.com/time-series-machine-learning/tsml-eval) - A package for running experiments and benchmarking time series machine learning algorithm, primarily using algorithms from `aeon` and `scikit-learn`.
